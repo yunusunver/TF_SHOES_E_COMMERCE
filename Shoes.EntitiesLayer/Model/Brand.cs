@@ -17,5 +17,13 @@ namespace Shoes.EntitiesLayer.Model
         public String BrandName { get; set; }
 
         public String Icon { get; set; }
+
+        // Bir markanın birden fazla ürünü olur 
+        public virtual List<Product> Products  { get; set; }
+
+        public Brand()
+        {
+            Products = new List<Product>();
+        }
     }
 }

@@ -16,6 +16,13 @@ namespace Shoes.EntitiesLayer.Model
         public String CategoryName { get; set; }
         public DateTime CreatedDate { get; set; }
 
+        // Bir kategorinin birden fazla ürünü olur!
+        public virtual List<Product> Products  { get; set; }
+
+        public Category()
+        {
+            Products = new List<Product>();
+        }
 
     }
 

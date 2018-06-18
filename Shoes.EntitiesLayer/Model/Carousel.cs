@@ -14,6 +14,7 @@ namespace Shoes.EntitiesLayer.Model
         [Key,DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int CarouselId { get; set; }
         public string CarouselName { get; set; }
+        public String Image { get; set; }
 
     }
 }
