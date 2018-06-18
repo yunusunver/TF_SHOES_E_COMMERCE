@@ -1,0 +1,9 @@
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\Shoes\Shoes.EntitiesLayer\bin\Debug\Shoes.EntitiesLayer.dll
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\Shoes\Shoes.EntitiesLayer\bin\Debug\Shoes.EntitiesLayer.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\Shoes\Shoes.EntitiesLayer\bin\Debug\Shoes.CoreLayer.dll
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\Shoes\Shoes.EntitiesLayer\bin\Debug\Shoes.CoreLayer.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\Shoes\Shoes.EntitiesLayer\obj\Debug\Shoes.EntitiesLayer.csprojAssemblyReference.cache
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\Shoes\Shoes.EntitiesLayer\obj\Debug\Shoes.EntitiesLayer.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\Shoes\Shoes.EntitiesLayer\obj\Debug\Shoes.EntitiesLayer.csproj.CopyComplete
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\Shoes\Shoes.EntitiesLayer\obj\Debug\Shoes.EntitiesLayer.dll
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\Shoes\Shoes.EntitiesLayer\obj\Debug\Shoes.EntitiesLayer.pdb

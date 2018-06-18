@@ -1,0 +1,6 @@
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\Shoes\Shoes.BusinessLayer\bin\Debug\Shoes.BusinessLayer.dll
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\Shoes\Shoes.BusinessLayer\bin\Debug\Shoes.BusinessLayer.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\Shoes\Shoes.BusinessLayer\obj\Debug\Shoes.BusinessLayer.csprojAssemblyReference.cache
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\Shoes\Shoes.BusinessLayer\obj\Debug\Shoes.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\Shoes\Shoes.BusinessLayer\obj\Debug\Shoes.BusinessLayer.dll
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\Shoes\Shoes.BusinessLayer\obj\Debug\Shoes.BusinessLayer.pdb
