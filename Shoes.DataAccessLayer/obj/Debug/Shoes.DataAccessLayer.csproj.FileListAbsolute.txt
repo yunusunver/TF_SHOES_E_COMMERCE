@@ -1,0 +1,6 @@
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\Shoes\Shoes.DataAccessLayer\bin\Debug\Shoes.DataAccessLayer.dll
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\Shoes\Shoes.DataAccessLayer\bin\Debug\Shoes.DataAccessLayer.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\Shoes\Shoes.DataAccessLayer\obj\Debug\Shoes.DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\Shoes\Shoes.DataAccessLayer\obj\Debug\Shoes.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\Shoes\Shoes.DataAccessLayer\obj\Debug\Shoes.DataAccessLayer.dll
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\Shoes\Shoes.DataAccessLayer\obj\Debug\Shoes.DataAccessLayer.pdb
