@@ -20,7 +20,7 @@ namespace Shoes.EntitiesLayer.Model
 
         public int RoleId { get; set; }
 
-        // Bir  role gelecek!
+        // Bir  role gelecek!!!!
         public virtual Role Role { get; set; } // Navigation prop
 
     }
