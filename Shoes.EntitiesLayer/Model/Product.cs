@@ -20,7 +20,7 @@ namespace Shoes.EntitiesLayer.Model
 
         public int  UnitsInStock { get; set; }
 
-        // Bir ürünün bir tane categorisi olur 
+        // Bir ürünün bir tane categorisi olur yorum
         public int CategoryId { get; set; }
        
         public virtual Category Category { get; set; } // Navigation prop
