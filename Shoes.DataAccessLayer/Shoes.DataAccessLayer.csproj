@@ -65,6 +65,8 @@
     <Compile Include="Concrete\EfUserDal.cs" />
     <Compile Include="Concrete\ShoesDbContext.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UnitOfWork\Abstract\IUnitOfWork.cs" />
+    <Compile Include="UnitOfWork\Concreate\UnitOfWork_Class.cs" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
