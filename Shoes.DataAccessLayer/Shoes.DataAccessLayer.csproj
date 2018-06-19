@@ -58,6 +58,10 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Shoes.CoreLayer\Shoes.CoreLayer.csproj">
+      <Project>{BA154992-3EDF-406C-A643-F9D301FE47D6}</Project>
+      <Name>Shoes.CoreLayer</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Shoes.EntitiesLayer\Shoes.EntitiesLayer.csproj">
       <Project>{239188D7-B574-4B2A-BB15-79766271226A}</Project>
       <Name>Shoes.EntitiesLayer</Name>
