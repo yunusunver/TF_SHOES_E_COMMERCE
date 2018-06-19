@@ -47,12 +47,26 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Abstract\IBrandDal.cs" />
+    <Compile Include="Abstract\ICarouselDal.cs" />
+    <Compile Include="Abstract\ICategoryDal.cs" />
+    <Compile Include="Abstract\IProductDal.cs" />
+    <Compile Include="Abstract\IProductSizeDal.cs" />
+    <Compile Include="Abstract\IRoleDal.cs" />
+    <Compile Include="Abstract\ISizeDal.cs" />
+    <Compile Include="Abstract\IUserDal.cs" />
+    <Compile Include="Concrete\EfBrandDal.cs" />
+    <Compile Include="Concrete\EfCarouselDal.cs" />
+    <Compile Include="Concrete\EfCategoryDal.cs" />
+    <Compile Include="Concrete\EfProductDal.cs" />
+    <Compile Include="Concrete\EfProductSizeDal.cs" />
+    <Compile Include="Concrete\EfRoleDal.cs" />
+    <Compile Include="Concrete\EfSizeDal.cs" />
+    <Compile Include="Concrete\EfUserDal.cs" />
     <Compile Include="Concrete\ShoesDbContext.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Abstract\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
