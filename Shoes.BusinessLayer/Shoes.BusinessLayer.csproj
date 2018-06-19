@@ -71,6 +71,14 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
+    <ProjectReference Include="..\Shoes.CoreLayer\Shoes.CoreLayer.csproj">
+      <Project>{ba154992-3edf-406c-a643-f9d301fe47d6}</Project>
+      <Name>Shoes.CoreLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Shoes.DataAccessLayer\Shoes.DataAccessLayer.csproj">
+      <Project>{0fd4e7ca-7aea-4887-86e2-dafa81f3b1d6}</Project>
+      <Name>Shoes.DataAccessLayer</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Shoes.EntitiesLayer\Shoes.EntitiesLayer.csproj">
       <Project>{239188D7-B574-4B2A-BB15-79766271226A}</Project>
       <Name>Shoes.EntitiesLayer</Name>
