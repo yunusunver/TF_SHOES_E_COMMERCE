@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Shoes.BusinessLayer.Abstract;
+using Shoes.EntitiesLayer.Model;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -8,8 +10,17 @@ namespace Shoes.Web.Controllers
 {
     public class HomeController : Controller
     {
+        private ICategoryService service;
+        private IRoleService roleService;
+        public HomeController(ICategoryService service,IRoleService roleService)
+        {
+            this.service = service;
+            this.roleService = roleService;
+        }
+
         public ActionResult Index()
         {
+             List<Category> list =  service.GetAll();
             return View();
         }
 
