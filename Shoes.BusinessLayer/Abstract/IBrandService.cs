@@ -10,7 +10,7 @@ namespace Shoes.BusinessLayer.Abstract
     public interface IBrandService
     {
         List<Brand> GetAll();
-        List<Brand> GetByBrand();
+        List<Brand> GetByBrand(int id);
         void Add(Brand brand);
         void Update(Brand brand);
         void Delete(int id);

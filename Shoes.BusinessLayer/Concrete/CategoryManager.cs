@@ -28,22 +28,22 @@ namespace Shoes.BusinessLayer.Concrete
 
         public void Delete(int id)
         {
-            throw new NotImplementedException();
+            _unitOfWork.CategoryDal.Delete(new Category{CategoryId=id);
         }
 
         public List<Category> GetAll()
         {
-            throw new NotImplementedException();
+            return _unitOfWork.CategoryDal.GetList();
         }
 
-        public List<Category> GetByCategory()
+        public List<Category> GetByCategory(int id)
         {
-            throw new NotImplementedException();
+            return _unitOfWork.CategoryDal.GetList(x=>x.CategoryId==id);
         }
 
         public void Update(Category category)
         {
-            throw new NotImplementedException();
+            _unitOfWork.CategoryDal.Update(category);
         }
     }
 

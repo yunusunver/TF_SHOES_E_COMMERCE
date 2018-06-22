@@ -10,7 +10,7 @@ namespace Shoes.BusinessLayer.Abstract
     public interface IProductService
     {
         List<Product> GetAll();
-        List<Product> GetByProduct();
+        List<Product> GetByProduct(int id);
         void Add(Product product);
         void Update(Product product);
         void Delete(int id);

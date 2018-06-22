@@ -29,22 +29,24 @@ namespace Shoes.BusinessLayer.Concrete
 
         public void Delete(int id)
         {
-            throw new NotImplementedException();
+            _unitOfWork.BrandDal.Delete(new Brand { BrandId=id});
+            _unitOfWork.Complete();
         }
 
         public List<Brand> GetAll()
         {
-            throw new NotImplementedException();
+            return _unitOfWork.BrandDal.GetList();
         }
 
-        public List<Brand> GetByBrand()
+        public List<Brand> GetByBrand(int id)
         {
-            throw new NotImplementedException();
+            return _unitOfWork.BrandDal.GetList(x=>x.BrandId==id);
         }
 
         public void Update(Brand brand)
         {
-            throw new NotImplementedException();
+            _unitOfWork.BrandDal.Update(brand);
+            _unitOfWork.Complete();
         }
     }
 }

@@ -10,7 +10,7 @@ namespace Shoes.BusinessLayer.Abstract
     public interface ICategoryService
     {
         List<Category> GetAll();
-        List<Category> GetByCategory();
+        List<Category> GetByCategory(int id);
         void Add(Category category);
         void Update(Category category);
         void Delete(int id);
